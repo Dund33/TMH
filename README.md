@@ -1,2 +1,2 @@
-# TMH
-Lightweight TOR capable slow-loris vunerability testing script
+# TMH - Multithread
+Miltithreaded version of the TMH 
