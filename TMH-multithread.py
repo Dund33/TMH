@@ -60,7 +60,7 @@ keep_up_time=50
 n_of_repeats=5
 tor_port=9050
 use_tor=False
-target_ip='85.128.136.190'
+target_ip='0.0.0.0'
 target_port=80
 n_of_threads=1
   
