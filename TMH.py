@@ -2,7 +2,7 @@
 #This script is just quick and dirty version. It will be improved over time...
 #trust me...
 #credits for Dan Haim(negativeiq@users.sourceforge.net) for SocksiPy and Anorov for PySocks
-#httarget_ip://sourceforge.net/projects/socksipy
+#http://sourceforge.net/projects/socksipy
 import socks
 import socket
 import time
